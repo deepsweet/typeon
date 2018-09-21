@@ -10,18 +10,22 @@
   "files": [
     "build/"
   ],
-  "main": "build/index.js",
+  "main": "build/esm-loader.js",
+  "module": "build/index.js",
   "types": "build/index.d.ts",
   "engines": {
-    "node": ">=6"
+    "node": ">=8.6.0"
+  },
+  "dependencies": {
+    "esm": "^3.0.84"
   },
   "devDependencies": {
-    "@deepsweet/eslint-config-node-ts": "^0.1.0",
-    "@deepsweet/start-preset-node-ts-lib": "^0.2.0",
-    "@types/node": "^10.3.1",
+    "@deepsweet/eslint-config-node-ts": "^0.2.1",
+    "@deepsweet/start-preset-node-ts-lib": "^0.6.4",
+    "@types/node": "^10.10.1",
     "@types/tape": "^4.2.32",
     "tape": "^4.9.1",
-    "typescript": "~2.8.0"
+    "typescript": "^3.0.3"
   },
   "eslintConfig": {
     "extends": "@deepsweet/eslint-config-node-ts"

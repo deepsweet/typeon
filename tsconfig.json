@@ -5,8 +5,7 @@
     "noEmit": true,
     "pretty": true,
     "lib": ["esnext"],
-    "moduleResolution": "node",
-    "typeRoots": [ "types/", "node_modules/@types/" ]
+    "moduleResolution": "node"
   },
-  "exclude": ["node_modules/", "coverage/", "build/"]
+  "exclude": ["build/", "coverage/", "node_modules/"]
 }
