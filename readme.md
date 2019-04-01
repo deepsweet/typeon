@@ -6,7 +6,6 @@ Typed JSON parse and stringify for TypeScript.
 
 * no `any`
 * no additional arguments for `parse` and `stringify`
-* ESM
 
 ## Requirements
 
