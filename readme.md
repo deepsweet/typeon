@@ -1,6 +1,6 @@
 # typeon
 
-**:warning: Project has been transferred to [Bubble Dev metarepo](https://github.com/bubble-dev/_/tree/master/packages/typeon)**
+**:warning: Project has been transferred to [NexTools metarepo](https://github.com/nextools/metarepo/tree/master/packages/typeon)**
 
 [![npm](https://img.shields.io/npm/v/typeon.svg?style=flat-square)](https://www.npmjs.com/package/typeon) [![tests](https://img.shields.io/travis/deepsweet/typeon/master.svg?label=tests&style=flat-square)](https://travis-ci.org/deepsweet/typeon) [![coverage](https://img.shields.io/codecov/c/github/deepsweet/typeon.svg?style=flat-square)](https://codecov.io/github/deepsweet/typeon)
 
